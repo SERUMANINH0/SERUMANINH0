@@ -6,8 +6,7 @@
 </div>
   
 <div>
-<img loading="lazy" src= https://github.com/user-attachments/assets/c7c8b5db-d1b2-4963-8f0b-3283605da4cc width="290" height="290"/>  
-![Snake animation](https://github.com/SERUMANINH0/SERUMANINH0/blob/output/github-contribution-grid-snake.svg)
+<img loading="lazy" src= https://github.com/user-attachments/assets/c7c8b5db-d1b2-4963-8f0b-3283605da4cc width="290" height="290"/>
 </div>
 
 𝙼𝚎𝚞 𝚗𝚘𝚖𝚎 𝚎 𝚅𝚎𝚗𝚎𝚛𝚢 𝙶𝚞𝚝𝚒𝚎𝚛𝚢, 𝚎 𝚜𝚘𝚞 𝚞𝚖 𝚒𝚗𝚒𝚌𝚒𝚊𝚗𝚝𝚎 𝚗𝚘 𝚖𝚞𝚗𝚍𝚘 𝚍𝚊 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊ç𝚊𝚘. 𝙴𝚜𝚝𝚘𝚞 𝚎𝚡𝚙𝚕𝚘𝚛𝚊𝚗𝚍𝚘 𝚊𝚜 𝚙𝚘𝚜𝚜𝚒𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜 𝚒𝚗𝚌𝚛𝚒𝚟𝚎𝚒𝚜 𝚚𝚞𝚎 𝚊 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊 𝚘𝚏𝚎𝚛𝚎𝚌𝚎 𝚎 𝚖𝚎 𝚍𝚎𝚍𝚒𝚌𝚊𝚗𝚍𝚘 𝚊 𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛 𝚎 𝚎𝚟𝚘𝚕𝚞𝚒𝚛 𝚌𝚘𝚖𝚘 𝚍𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚎𝚍𝚘𝚛. </div>
