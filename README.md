@@ -37,8 +37,8 @@ Sempre em busca de novos desafios para aprender e evoluir 🚀
 
 <div align="center">
 
-![Venery GitHub stats](https://github-readme-stats.vercel.app/api?username=venerygutiery&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venerygutiery&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SERUMANINH0&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SERUMANINH0&layout=compact&theme=radical)
 
 </div>
 
