@@ -1,526 +1,584 @@
 <div align="center">
 
-# 🌌 VENERY GUTIERY // SISTEMA NEURAL V4.0 🌌
+# 🌌 VENERY GUTIERY 🌌
+### `// ENGENHEIRO DE SOFTWARE • ARQUITETO DIGITAL`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,21,20,6&height=200&section=header&text=BUILDING%20THE%20FUTURE&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Specialist&descAlignY=55&descAlign=50"/>
 
 ```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██╗   ██╗███████╗███╗   ██╗███████╗██████╗ ██╗   ██╗         ║
-║   ██║   ██║██╔════╝████╗  ██║██╔════╝██╔══██╗╚██╗ ██╔╝         ║
-║   ██║   ██║█████╗  ██╔██╗ ██║█████╗  ██████╔╝ ╚████╔╝          ║
-║   ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██╔══╝  ██╔══██╗  ╚██╔╝           ║
-║    ╚████╔╝ ███████╗██║ ╚████║███████╗██║  ██║   ██║            ║
-║     ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝   ╚═╝            ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-
-┌─────────────────────────────────────────────────────────────────┐
-│ NEURAL LINK: ████████████████████ 100% SINCRONIZADO             │
-│ QUANTUM CORES: ⚡⚡⚡⚡⚡⚡⚡⚡ [TODOS ATIVOS]                    │
-│ STATUS: 🟢 ONLINE | CONSTRUINDO O FUTURO                         │
-│ LOCALIZAÇÃO: 🇧🇷 CASCAVEL, PR → 🌍 IMPACTO GLOBAL              │
-└─────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║     ██╗   ██╗███████╗███╗   ██╗███████╗██████╗ ██╗   ██╗                ║
+║     ██║   ██║██╔════╝████╗  ██║██╔════╝██╔══██╗╚██╗ ██╔╝                ║
+║     ██║   ██║█████╗  ██╔██╗ ██║█████╗  ██████╔╝ ╚████╔╝                 ║
+║     ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██╔══╝  ██╔══██╗  ╚██╔╝                  ║
+║      ╚████╔╝ ███████╗██║ ╚████║███████╗██║  ██║   ██║    v4.0           ║
+║       ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝   ╚═╝                   ║
+║                                                                          ║
+║  ┌────────────────────────────────────────────────────────────────┐    ║
+║  │  STATUS      : ████████████████████████ 100% ONLINE           │    ║
+║  │  CORES       : ⚡⚡⚡⚡⚡⚡⚡⚡ [8/8 ATIVOS]                   │    ║
+║  │  LOCATION    : 🇧🇷 Cascavel, PR → 🌍 Global Impact           │    ║
+║  │  MISSION     : Transformando café em código desde 2022        │    ║
+║  └────────────────────────────────────────────────────────────────┘    ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DESENVOLVEDOR%20FULL%20STACK&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/venery-gutiery-b02482326/)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SERUMANINH0)
-[![Instagram](https://img.shields.io/badge/Instagram-00FF9F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/venerygutieryy/)
-[![Email](https://img.shields.io/badge/Email-00D4FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gutieryoficial4@gmail.com)
+<a href="https://www.linkedin.com/in/venery-gutiery-b02482326/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/SERUMANINH0">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/venerygutieryy/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
+</a>
+<a href="mailto:gutieryoficial4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+</a>
+
+<br><br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&random=false&width=600&lines=%E2%98%95+Java+%26+Spring+Boot+Expert;%F0%9F%93%B1+Flutter+%26+Mobile+Developer;%F0%9F%8E%AE+Unity+Game+Developer;%F0%9F%9A%80+Building+Scalable+Solutions)
 
 </div>
 
 ---
 
-## 💻 INICIALIZANDO PERFIL...
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+## 👨‍💻 `$ whoami`
 
 ```java
+@SpringBootApplication
 public class VeneryGutiery {
-    private String nome = "Venery Gutiery";
-    private int idade = 22;
-    private String location = "Cascavel, Paraná, Brasil";
-    private String role = "🚀 Desenvolvedor Full Stack | Eng. Software";
-    private String[] paixoes = {"Código", "Inovação", "Tecnologia", "Java"};
     
-    public String sobreMim() {
-        return """
-            Desenvolvedor Full Stack formado em Engenharia de Software,
-            com experiência sólida em Java, Spring Framework, e desenvolvimento
-            web moderno. Apaixonado por criar soluções elegantes e funcionais
-            que resolvem problemas reais.
-            """;
-    }
+    @Value("${developer.info}")
+    private DeveloperInfo info = DeveloperInfo.builder()
+        .name("Venery Gutiery")
+        .age(22)
+        .location("Cascavel, PR 🇧🇷")
+        .education("Engenharia de Software")
+        .role("Full Stack Developer")
+        .experience("3+ anos")
+        .passion("Criar soluções elegantes")
+        .build();
     
-    public Map<String, List<String>> getStack() {
-        return Map.of(
-            "backend", List.of("Java", "Spring Boot", "Spring Framework", "API REST"),
-            "frontend", List.of("HTML5", "CSS3", "JavaScript", "TypeScript", "Dart"),
-            "mobile", List.of("Flutter", "Dart"),
-            "gamedev", List.of("C#", "Unity", "Game Development"),
-            "database", List.of("SQL", "JPQL", "MySQL"),
-            "tools", List.of("Git", "VS Code", "IntelliJ", "Postman")
-        );
-    }
-    
-    public String objetivo2025() {
-        return "Dominar arquitetura de microsserviços e Cloud Native! ☁️";
+    public static void main(String[] args) {
+        SpringApplication.run(VeneryGutiery.class, args);
+        System.out.println("🚀 Sistema inicializado!");
+        System.out.println("☕ Transformando café em código...");
     }
 }
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🎯 ARSENAL TECNOLÓGICO
+## 🛠️ **TECH STACK ARSENAL**
 
 <div align="center">
 
-### 💪 TECNOLOGIAS CORE
+### 🔥 **CORE TECHNOLOGIES**
 
-![Java](https://img.shields.io/badge/Java-FF6B00?style=for-the-badge&logo=oracle&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-00FF9F?style=for-the-badge&logo=spring&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-00D4FF?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-FF6B00?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-00FF9F?style=for-the-badge&logo=dart&logoColor=black)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+<br>Spring
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+<br>Dart
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br>C#
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+</tr>
+</table>
 
-### 🚀 FRAMEWORKS & FERRAMENTAS
+### 📱 **FRAMEWORKS & PLATFORMS**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-00D4FF?style=for-the-badge&logo=spring-boot&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-FF6B00?style=for-the-badge&logo=flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-00FF9F?style=for-the-badge&logo=unity&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-00D4FF?style=for-the-badge&logo=c-sharp&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-FF6B00?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00FF9F?style=for-the-badge&logo=css3&logoColor=black)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+<br>Unity
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+</tr>
+</table>
 
-### 🛠️ DESENVOLVIMENTO
+### 🎨 **FRONTEND & DESIGN**
 
-![Git](https://img.shields.io/badge/Git-00D4FF?style=for-the-badge&logo=git&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-FF6B00?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-00FF9F?style=for-the-badge&logo=intellij-idea&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-00D4FF?style=for-the-badge&logo=postman&logoColor=black)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+<br>Bootstrap
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+<br>Sass
+</td>
+</tr>
+</table>
+
+### 🔧 **TOOLS & DEVOPS**
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+<br>IntelliJ
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 PROJETOS DESTACADOS
+## 📊 **GITHUB ANALYTICS**
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SERUMANINH0&show_icons=true&count_private=true&hide_border=true&title_color=00FF9F&icon_color=00FF9F&text_color=c9d1d9&bg_color=0d1117" alt="Venery Gutiery github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SERUMANINH0&layout=compact&hide_border=true&title_color=00FF9F&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SERUMANINH0&theme=radical&hide_border=true&stroke=0D1117&background=0D1117&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SERUMANINH0&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FF9F&line=00FF9F&point=FFFFFF&area_color=00FF9F&title_color=FFFFFF&area=true" alt="contribution graph">
+</div>
+
+<div align="center">
+<br>
+  <img src="https://github-profile-trophy.vercel.app/?username=SERUMANINH0&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" />
+</div>
+
+---
+
+## 🚀 **PROJETOS EM DESTAQUE**
 
 <div align="center">
 
-<!-- PROJETO 1 - TCC -->
-<details open>
-<summary><h3>📚 Sistema TCC - Plataforma Acadêmica</h3></summary>
+<table>
+<tr>
+<td width="50%">
 
-<br>
+<h3 align="center">☕ Spring Boot Ecosystem</h3>
 
-<img src="https://img.shields.io/badge/STATUS-🟢_COMPLETO-00FF9F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TIPO-TCC-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ANO-2024-00D4FF?style=for-the-badge"/>
+<div align="center">  
+<a href="https://github.com/SERUMANINH0/Aplica-o_Serie_API_Spring_framework-_JPQL_SQL-_Java_1.8">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SERUMANINH0&repo=Aplica-o_Serie_API_Spring_framework-_JPQL_SQL-_Java_1.8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F" />
+</a>
+</div>
 
-```html
-<!-- Sistema completo de gerenciamento de TCC -->
-<sistema>
-  <funcionalidades>
-    - Cadastro de alunos e orientadores
-    - Gerenciamento de documentos
-    - Timeline de entregas
-    - Sistema de avaliação
-  </funcionalidades>
-</sistema>
-```
+**Tech Stack:**
 
-**🎨 Stack:**
-`HTML5` • `CSS3` • `JavaScript` • `Backend Integration`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-**✨ Features:**
-- 📝 Interface intuitiva para gestão acadêmica
+**Features:**
+- 🎬 API REST completa de séries
+- 🔍 Queries JPQL otimizadas
+- 📊 Integração com banco de dados
 - 🔐 Sistema de autenticação
-- 📊 Dashboard de acompanhamento
-- 📁 Upload e gestão de documentos
 
-[![Ver Repositório](https://img.shields.io/badge/📁_VER_TCC-FF6B00?style=for-the-badge)](https://github.com/SERUMANINH0/TCC)
-[![Ver TCC_2](https://img.shields.io/badge/📁_VER_TCC__2-00FF9F?style=for-the-badge)](https://github.com/SERUMANINH0/TCC_2)
+</td>
 
-</details>
+<td width="50%">
 
-<!-- PROJETO 2 - Spring Boot Applications -->
-<details>
-<summary><h3>☕ Ecossistema Spring - APIs RESTful</h3></summary>
+<h3 align="center">📱 Flutter Mobile Apps</h3>
 
-<br>
+<div align="center">
+<a href="https://github.com/SERUMANINH0/anybank_praticando_dart">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SERUMANINH0&repo=anybank_praticando_dart&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F" />
+</a>
+</div>
 
-<img src="https://img.shields.io/badge/STATUS-🟢_PRODUÇÃO-00FF9F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/APIS-4+-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FRAMEWORK-SPRING-FF6B00?style=for-the-badge"/>
+**Tech Stack:**
 
-```java
-@RestController
-@RequestMapping("/api")
-public class SpringEcosystem {
-    
-    // API de Séries com JPQL e SQL
-    @GetMapping("/series")
-    public ResponseEntity<List<Serie>> getSeries() {
-        // Implementação completa de CRUD
-        return ResponseEntity.ok(series);
-    }
-    
-    // Tabela FIPE - Integração externa
-    @GetMapping("/fipe/{codigo}")
-    public Veiculo consultarFipe(@PathVariable String codigo) {
-        return fipeService.consultar(codigo);
-    }
-}
-```
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**🎨 Stack:**
-`Java 1.6-1.8` • `Spring Boot` • `Spring Framework` • `JPQL/SQL` • `REST API`
+**Features:**
+- 🏦 App bancário completo
+- 💳 Gestão de transações
+- 📊 Dashboard interativo
+- 🎨 Material Design 3
 
-**✨ Aplicações Desenvolvidas:**
-- 🎬 **API de Séries**: CRUD completo com JPQL e queries otimizadas
-- 🚗 **Tabela FIPE**: Integração com API externa para consulta de veículos
-- 🎵 **Sistema de Música**: Gerenciamento com OOP avançado
-- 💳 **Cartão de Crédito**: Sistema de transações e limites
+</td>
+</tr>
 
-[![Ver Séries JPQL](https://img.shields.io/badge/📁_API_SÉRIES-FF6B00?style=for-the-badge)](https://github.com/SERUMANINH0/Aplica-o_Serie_API_Spring_framework-_JPQL_SQL-_Java_1.8)
-[![Ver Tabela FIPE](https://img.shields.io/badge/📁_TABELA_FIPE-00FF9F?style=for-the-badge)](https://github.com/SERUMANINH0/Aplica-o_TabelaFipe_API_Spring_framework-_Java_1.7)
-[![Ver Música](https://img.shields.io/badge/📁_MÚSICA_APP-00D4FF?style=for-the-badge)](https://github.com/SERUMANINH0/Aplicação_Música_Java_Aula_1.5)
+<tr>
+<td width="50%">
 
-</details>
+<h3 align="center">🎮 Unity 2D Game</h3>
 
-<!-- PROJETO 3 - Flutter Apps -->
-<details>
-<summary><h3>📱 Flutter Apps - Mobile Development</h3></summary>
+<div align="center">
+<a href="https://github.com/SERUMANINH0/jogo_2d_venery">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SERUMANINH0&repo=jogo_2d_venery&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F" />
+</a>
+</div>
 
-<br>
+**Tech Stack:**
 
-<img src="https://img.shields.io/badge/STATUS-🟢_ATIVO-00FF9F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/APPS-3+-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FLUTTER-DART-00D4FF?style=for-the-badge"/>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 
-```dart
-class FlutterApps extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Venery Apps',
-      theme: ThemeData.dark(),
-      home: Scaffold(
-        body: Column(
-          children: [
-            AnyBankApp(),      // App bancário completo
-            NotasApp(),        // Sistema de notas
-            CalculadoraApp(),  // Calculadora avançada
-          ],
-        ),
-      ),
-    );
-  }
-}
-```
-
-**🎨 Stack:**
-`Dart` • `Flutter` • `Material Design` • `OOP`
-
-**✨ Aplicações:**
-- 🏦 **AnyBank**: Aplicação bancária com gestão de contas
-- 📝 **Sistema de Notas**: App educacional para estudantes
-- 🔢 **Calculadora**: Calculadora científica avançada
-- 🎯 **POO em Dart**: Projetos focados em Orientação a Objetos
-
-[![Ver AnyBank](https://img.shields.io/badge/📁_ANYBANK-FF6B00?style=for-the-badge)](https://github.com/SERUMANINH0/anybank_praticando_dart)
-[![Ver Notas](https://img.shields.io/badge/📁_NOTAS_APP-00FF9F?style=for-the-badge)](https://github.com/SERUMANINH0/Aplicacao_notas_dart)
-[![Ver Calculadora](https://img.shields.io/badge/📁_CALCULADORA-00D4FF?style=for-the-badge)](https://github.com/SERUMANINH0/calculadora_dardo)
-
-</details>
-
-<!-- PROJETO 4 - Game Development -->
-<details>
-<summary><h3>🎮 Jogo 2D - Unity Engine</h3></summary>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-🟢_COMPLETO-00FF9F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ENGINE-UNITY-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LANGUAGE-C%23-00D4FF?style=for-the-badge"/>
-
-```csharp
-public class GameController : MonoBehaviour 
-{
-    private PlayerController player;
-    private GameManager gameManager;
-    
-    void Start() {
-        // Sistema de física 2D
-        // Mecânicas de movimento
-        // Sistema de pontuação
-        InitializeGame();
-    }
-    
-    void Update() {
-        HandlePlayerInput();
-        UpdateGameLogic();
-    }
-}
-```
-
-**🎨 Stack:**
-`C#` • `Unity Engine` • `2D Physics` • `Game Design`
-
-**✨ Features:**
+**Features:**
 - 🎮 Mecânicas de gameplay fluidas
 - 🎨 Arte e animações 2D
 - 🔊 Sistema de áudio integrado
-- 🏆 Sistema de pontuação e conquistas
+- 🏆 Sistema de pontuação
 
-[![Ver Jogo](https://img.shields.io/badge/📁_VER_JOGO-FF6B00?style=for-the-badge)](https://github.com/SERUMANINH0/jogo_2d_venery)
+</td>
 
-</details>
+<td width="50%">
 
-<!-- PROJETO 5 - Portfolio & Web Projects -->
-<details>
-<summary><h3>🌐 Projetos Web - Full Stack</h3></summary>
+<h3 align="center">🌐 Portfolio & Web Projects</h3>
 
-<br>
+<div align="center">
+<a href="https://github.com/SERUMANINH0/TCC">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SERUMANINH0&repo=TCC&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F" />
+</a>
+</div>
 
-<img src="https://img.shields.io/badge/PROJETOS-10+-00FF9F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TIPO-FULL_STACK-FF6B00?style=for-the-badge"/>
+**Tech Stack:**
 
-```typescript
-interface WebProjects {
-  portfolio: {
-    tech: ["HTML5", "CSS3", "JavaScript"];
-    features: ["Responsivo", "Animações", "SEO"];
-  };
-  applications: {
-    geradorSenhas: "Segurança & Criptografia";
-    sistemaNotas: "CRUD completo";
-    projetos365dias: "Projetos pessoais";
-  };
-}
-```
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**🎨 Projetos Destacados:**
-- 💼 **Portfolio**: Website pessoal responsivo
-- 🔐 **Gerador de Senhas**: App de segurança
-- 📊 **Sistema de Gestão**: Aplicações CRUD
-- 🎨 **Estudos CSS**: Layouts modernos e animações
+**Features:**
+- 📚 Sistema acadêmico completo
+- 📝 Gestão de documentos
+- 👥 Multi-usuários
+- 📊 Dashboard administrativo
 
-[![Ver Portfolio](https://img.shields.io/badge/📁_PORTFOLIO-FF6B00?style=for-the-badge)](https://github.com/SERUMANINH0/portfólio)
-[![Ver Projetos CSS](https://img.shields.io/badge/📁_CSS_PROJECTS-00FF9F?style=for-the-badge)](https://github.com/SERUMANINH0/praticando_css_e_html)
-
-</details>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 ESTATÍSTICAS NEURAIS
+## 💡 **SKILL LEVELS**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SERUMANINH0&show_icons=true&theme=transparent&bg_color=0d1117&title_color=FF6B00&text_color=00FF9F&icon_color=00D4FF&border_color=FF6B00&hide_border=false&border_radius=10&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SERUMANINH0&layout=compact&theme=transparent&bg_color=0d1117&title_color=FF6B00&text_color=00FF9F&border_color=00D4FF&hide_border=false&border_radius=10&langs_count=8"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SERUMANINH0&theme=transparent&background=0d1117&ring=FF6B00&fire=00FF9F&currStreakLabel=00D4FF&sideLabels=FF6B00&dates=00FF9F&border=00D4FF&stroke=FF6B00&border_radius=10"/>
-<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=SERUMANINH0&custom_title=Jornada%20de%20Desenvolvimento&bg_color=0d1117&color=00FF9F&line=FF6B00&point=00D4FF&area=true&hide_border=false&border_radius=10&area_color=FF6B00"/>
-
-</div>
-
-<div align="center">
-
-### 🏆 CONQUISTAS GITHUB
-
-<img src="https://github-profile-trophy.vercel.app/?username=SERUMANINH0&theme=darkhub&no-frame=true&no-bg=true&column=7&title=Commits,Repositories,Stars,Followers&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
-
-</div>
-
----
-
-## 💡 DOMÍNIO TECNOLÓGICO
-
-```diff
-+ Java & Spring Framework     ████████████████████ 95%
-+ JavaScript & TypeScript     ██████████████████   85%
-+ Flutter & Dart              ████████████████     75%
-+ HTML & CSS                  ███████████████████  90%
-+ C# & Unity                  ███████████████      70%
-+ SQL & JPQL                  ██████████████████   85%
-+ REST APIs                   ███████████████████  90%
-+ Git & Version Control       ████████████████████ 95%
-+ Design Patterns & OOP       ███████████████████  90%
-```
-
----
-
-## 📈 LINHA DO TEMPO
-
-```mermaid
-gantt
-    title Jornada de Desenvolvimento
-    dateFormat YYYY-MM
-    section Fundação
-    Início na Programação     :done, 2022-07, 2023-01
-    section Crescimento
-    Java & OOP                :done, 2023-01, 2024-01
-    Spring Framework          :done, 2024-01, 2024-06
-    Flutter & Mobile          :done, 2024-03, 2024-06
-    section Especialização
-    TCC & Projetos Avançados  :done, 2024-06, 2024-12
-    Microsserviços & Cloud    :active, 2025-01, 2025-12
-```
-
----
-
-## 🎯 OBJETIVOS 2025
-
-<div align="center">
-
-| 🎯 MISSÃO | 📊 PROGRESSO | 🏅 META |
-|:-----------|:------------:|:-------------:|
-| ☁️ Dominar Spring Cloud & Microsserviços | ![30%](https://progress-bar.dev/30/?width=120&color=FF6B00) | Arquitetura avançada |
-| 🐳 Containerização com Docker & K8s | ![25%](https://progress-bar.dev/25/?width=120&color=00FF9F) | DevOps Master |
-| 🚀 Contribuir em Open Source | ![15%](https://progress-bar.dev/15/?width=120&color=00D4FF) | 100+ commits |
-| 📱 Publicar app Flutter na Play Store | ![40%](https://progress-bar.dev/40/?width=120&color=FF6B00) | App publicado |
-| 🎓 Certificação AWS/Azure | ![20%](https://progress-bar.dev/20/?width=120&color=00FF9F) | Cloud Certified |
-
-</div>
-
----
-
-## 💬 FILOSOFIA DE CÓDIGO
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  "Código limpo não é sobre fazer funcionar,                  ║
-║   é sobre fazer funcionar de forma elegante,                 ║
-║   mantível e que outros desenvolvedores possam               ║
-║   compreender e evoluir."                                    ║
-║                                                               ║
-║                                     — Clean Code Philosophy  ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🎮 CONQUISTAS DESBLOQUEADAS
-
-<div align="center">
-
-![](https://img.shields.io/badge/🎓_Engenheiro_de_Software-FF6B00?style=for-the-badge)
-![](https://img.shields.io/badge/☕_Java_Developer-00FF9F?style=for-the-badge)
-![](https://img.shields.io/badge/🚀_35+_Repositórios-00D4FF?style=for-the-badge)
-![](https://img.shields.io/badge/📱_Mobile_Developer-FF6B00?style=for-the-badge)
-![](https://img.shields.io/badge/🎮_Game_Developer-00FF9F?style=for-the-badge)
-![](https://img.shields.io/badge/🌐_Full_Stack-00D4FF?style=for-the-badge)
-![](https://img.shields.io/badge/💡_Clean_Code_Advocate-FF6B00?style=for-the-badge)
-
-</div>
-
----
-
-## 🌟 SOBRE MIM
-
-```java
-public class AboutMe {
-    public static void main(String[] args) {
-        Developer venery = new Developer();
-        
-        System.out.println("👋 Olá! Sou o Venery");
-        System.out.println("📍 Cascavel, PR - Brasil");
-        System.out.println("🎓 Engenheiro de Software");
-        System.out.println("💼 22 anos | Full Stack Developer");
-        
-        venery.setSpecialties(
-            "Java", "Spring Boot", "Flutter", 
-            "Web Development", "Game Development"
-        );
-        
-        venery.setPassion("Criar soluções que impactam positivamente");
-        venery.setGoal("Arquitetura de software escalável e cloud-native");
-        
-        System.out.println("\n✨ Sempre aprendendo, sempre evoluindo!");
-    }
-}
-```
-
----
-
-## 🤝 VAMOS CONECTAR?
-
-<div align="center">
-
-### 💌 Aberto para:
-✨ Oportunidades de trabalho  
-🤝 Colaborações em projetos  
-📚 Mentorias e troca de conhecimento  
-🚀 Discussões sobre arquitetura e boas práticas
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/venery-gutiery-b02482326/)
-[![Instagram](https://img.shields.io/badge/Instagram-Seguir-FF6B00?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/venerygutieryy/)
-[![Email](https://img.shields.io/badge/Email-Contato-00FF9F?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gutieryoficial4@gmail.com)
-
-</div>
-
----
-
-## 📊 MÉTRICAS EM TEMPO REAL
-
-<div align="center">
-
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=SERUMANINH0.SERUMANINH0&left_color=0d1117&right_color=FF6B00&left_text=Visitantes)
-![Profile Views](https://komarev.com/ghpvc/?username=SERUMANINH0&color=00FF9F&style=flat-square&label=Views)
-![Seguidores](https://img.shields.io/github/followers/SERUMANINH0?label=Seguidores&style=flat-square&color=00D4FF)
-![Última Atividade](https://img.shields.io/github/last-commit/SERUMANINH0/SERUMANINH0?label=Última%20Atividade&color=FF6B00&style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 PRINCÍPIOS DE DESENVOLVIMENTO
-
-```java
-while (alive) {
-    learn();
-    code();
-    refactor();
-    deploy();
-    improve();
-    repeat();
-}
-
-// "O código que escrevemos hoje é o legado que deixamos para o futuro"
-```
-
-</div>
-
----
-
-<div align="center">
-
-```
+```ascii
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║  ⚡ SISTEMA: 100% OPERACIONAL                                     ║
-║  🎓 FORMAÇÃO: ENGENHARIA DE SOFTWARE                              ║
-║  ☕ ESPECIALIDADE: JAVA & SPRING ECOSYSTEM                        ║
-║  🚀 MISSÃO: CÓDIGO LIMPO • ARQUITETURA SÓLIDA • INOVAÇÃO         ║
-║  💡 POWERED BY: CAFÉ • CLEAN CODE • CONTINUOUS LEARNING          ║
+║  Java & Spring Boot        ████████████████████░ 95%             ║
+║  JavaScript & TypeScript   █████████████████░░░░ 85%             ║
+║  Flutter & Dart            ███████████████░░░░░░ 75%             ║
+║  HTML & CSS                ██████████████████░░░ 90%             ║
+║  C# & Unity                ██████████████░░░░░░░ 70%             ║
+║  SQL & Databases           █████████████████░░░░ 85%             ║
+║  REST APIs                 ██████████████████░░░ 90%             ║
+║  Git & DevOps              ████████████████████░ 95%             ║
+║  Design Patterns & OOP     ██████████████████░░░ 90%             ║
+║  Problem Solving           ████████████████████░ 95%             ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
 
-### ⭐ Obrigado pela visita! Vamos construir o futuro com código de qualidade! ⭐
+---
 
-**"Simplicidade é o último grau de sofisticação." - Leonardo da Vinci**
+## 🎯 **2025 ROADMAP**
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🚀 Q1 2025] --> B[Microsserviços]
+    A --> C[Docker & K8s]
+    B --> D[🔥 Q2 2025]
+    C --> D
+    D --> E[Cloud AWS/Azure]
+    D --> F[CI/CD Pipeline]
+    E --> G[☁️ Q3 2025]
+    F --> G
+    G --> H[Serverless]
+    G --> I[App na Play Store]
+    H --> J[🎓 Q4 2025]
+    I --> J
+    J --> K[Certificações]
+    J --> L[Open Source Contrib]
+    
+    style A fill:#00FF9F,stroke:#fff,stroke-width:2px,color:#000
+    style D fill:#00FF9F,stroke:#fff,stroke-width:2px,color:#000
+    style G fill:#00FF9F,stroke:#fff,stroke-width:2px,color:#000
+    style J fill:#00FF9F,stroke:#fff,stroke-width:2px,color:#000
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🎯 **OBJETIVO** | 📊 **PROGRESSO** | 🗓️ **PRAZO** | 🏆 **STATUS** |
+|:----------------|:---------------:|:-------------:|:-------------:|
+| ☁️ Dominar Spring Cloud | ![30%](https://progress-bar.dev/30/?scale=100&title=&width=120&color=00FF9F) | Q2 2025 | 🟡 Em Progresso |
+| 🐳 Docker & Kubernetes | ![25%](https://progress-bar.dev/25/?scale=100&title=&width=120&color=00D4FF) | Q2 2025 | 🟡 Iniciado |
+| 🚀 100+ Commits OSS | ![15%](https://progress-bar.dev/15/?scale=100&title=&width=120&color=FF6B00) | Q4 2025 | 🟢 Ativo |
+| 📱 App na Play Store | ![40%](https://progress-bar.dev/40/?scale=100&title=&width=120&color=00FF9F) | Q3 2025 | 🟡 Desenvolvimento |
+| 🎓 Cert. AWS/Azure | ![20%](https://progress-bar.dev/20/?scale=100&title=&width=120&color=00D4FF) | Q4 2025 | 🟢 Estudando |
+
+</div>
+
+---
+
+## 🏆 **CONQUISTAS & BADGES**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓_Engenheiro_de_Software-00FF9F?style=for-the-badge&logo=graduation-cap&logoColor=black" />
+<img src="https://img.shields.io/badge/☕_Java_Spring_Expert-FF6B00?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/📱_Mobile_Developer-00D4FF?style=for-the-badge&logo=flutter&logoColor=black" />
+<img src="https://img.shields.io/badge/🎮_Game_Developer-00FF9F?style=for-the-badge&logo=unity&logoColor=black" />
+
+<img src="https://img.shields.io/badge/🚀_35+_Repositórios-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_Full_Stack-00D4FF?style=for-the-badge&logo=stackshare&logoColor=black" />
+<img src="https://img.shields.io/badge/💡_Clean_Code-00FF9F?style=for-the-badge&logo=code&logoColor=black" />
+<img src="https://img.shields.io/badge/🔥_3+_Anos_de_Código-FF6B00?style=for-the-badge&logo=fire&logoColor=white" />
+
+</div>
+
+---
+
+## 💭 **FILOSOFIA DE CÓDIGO**
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  "Clean code is not written by following a set of rules.             ║
+║   You don't become a software craftsman by learning a list of        ║
+║   what to do and what not to do. Professionalism and craftsmanship   ║
+║   come from values that drive disciplines."                          ║
+║                                                                       ║
+║                                            — Robert C. Martin         ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+### 🎯 **PRINCÍPIOS QUE SIGO:**
+
+**SOLID** • **Clean Code** • **DRY** • **KISS** • **YAGNI** • **TDD**
+
+</div>
+
+---
+
+## 📫 **VAMOS CONECTAR?**
+
+<div align="center">
+
+### 💼 **Aberto para:**
+
+```typescript
+const opportunities = {
+  lookingFor: [
+    "💼 Oportunidades de trabalho Full Stack",
+    "🤝 Colaborações em projetos Open Source",
+    "📚 Mentorias e troca de conhecimento",
+    "🚀 Discussões sobre arquitetura e boas práticas",
+    "☕ Bater um papo sobre tecnologia"
+  ],
+  canHelpWith: [
+    "Java & Spring Boot development",
+    "Mobile development com Flutter",
+    "REST API design & implementation",
+    "Code reviews & refactoring",
+    "Orientação a Objetos & Design Patterns"
+  ]
+};
+```
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venery-gutiery-b02482326/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/venerygutieryy/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gutieryoficial4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SERUMANINH0)
+
+</div>
+
+---
+
+## 📈 **VISITOR & ACTIVITY METRICS**
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=SERUMANINH0&color=00FF9F&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/SERUMANINH0?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117)
+![](https://img.shields.io/github/stars/SERUMANINH0?label=Stars&style=for-the-badge&color=FF6B00&labelColor=0D1117)
+
+<br>
+
+[![GitHub Activity](https://img.shields.io/github/last-commit/SERUMANINH0/SERUMANINH0?label=LAST%20ACTIVITY&style=for-the-badge&color=00FF9F&labelColor=0D1117)](https://github.com/SERUMANINH0)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 **CONTRIBUTION SNAKE**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SERUMANINH0/SERUMANINH0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SERUMANINH0/SERUMANINH0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SERUMANINH0/SERUMANINH0/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 **CÓDIGO É MINHA LINGUAGEM**
+
+```java
+public class Developer {
+    public static void main(String[] args) {
+        while (alive) {
+            eat("☕");
+            code();
+            learn();
+            create();
+            sleep(); // às vezes...
+            repeat();
+        }
+        
+        System.out.println("🚀 Transformando ideias em realidade, uma linha por vez!");
+    }
+}
+```
+
+<br>
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  ⚡ SISTEMA: 100% OPERACIONAL                                         ║
+║  🎓 FORMAÇÃO: ENGENHARIA DE SOFTWARE                                  ║
+║  ☕ STACK: JAVA • SPRING • FLUTTER • UNITY                            ║
+║  🚀 MISSÃO: CLEAN CODE • SOLID PRINCIPLES • INNOVATION                ║
+║  💡 POWERED BY: CAFÉ ☕ • CÓDIGO 💻 • CONTINUOUS LEARNING 📚         ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,21,20,6&height=120&section=footer"/>
+
+### ⭐ **Obrigado pela visita! Vamos construir o futuro juntos!** ⭐
+
+**"A jornada de mil linhas de código começa com um único commit."**
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SERUMANINH0&repo=SERUMANINH0&theme=radical&hide_border=true)](https://github.com/SERUMANINH0/SERUMANINH0)
 
 </div>
