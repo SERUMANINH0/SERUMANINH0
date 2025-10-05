@@ -1,40 +1,33 @@
 <div align="center">
 
-# 🌌 INTERFACE NEURAL // SISTEMA V3.0 🌌
+# 🌌 VENERY GUTIERY // SISTEMA NEURAL V4.0 🌌
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   ██████╗ ███████╗██╗   ██╗    ███╗   ██╗ █████╗ ███╗   ███╗   ║
-║   ██╔══██╗██╔════╝██║   ██║    ████╗  ██║██╔══██╗████╗ ████║   ║
-║   ██║  ██║█████╗  ██║   ██║    ██╔██╗ ██║███████║██╔████╔██║   ║
-║   ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║╚██╗██║██╔══██║██║╚██╔╝██║   ║
-║   ██████╔╝███████╗ ╚████╔╝     ██║ ╚████║██║  ██║██║ ╚═╝ ██║   ║
-║   ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝   ║
+║   ██╗   ██╗███████╗███╗   ██╗███████╗██████╗ ██╗   ██╗         ║
+║   ██║   ██║██╔════╝████╗  ██║██╔════╝██╔══██╗╚██╗ ██╔╝         ║
+║   ██║   ██║█████╗  ██╔██╗ ██║█████╗  ██████╔╝ ╚████╔╝          ║
+║   ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██╔══╝  ██╔══██╗  ╚██╔╝           ║
+║    ╚████╔╝ ███████╗██║ ╚████║███████╗██║  ██║   ██║            ║
+║     ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝   ╚═╝            ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 ┌─────────────────────────────────────────────────────────────────┐
-│ SISTEMA: ████████████████████ 100% OPERACIONAL                  │
-│ NEURAL CORES: ⚡⚡⚡⚡⚡⚡⚡⚡ [8/8 ATIVOS]                         │
-│ STATUS: 🟢 ONLINE | CRIANDO O FUTURO                            │
+│ NEURAL LINK: ████████████████████ 100% SINCRONIZADO             │
+│ QUANTUM CORES: ⚡⚡⚡⚡⚡⚡⚡⚡ [TODOS ATIVOS]                    │
+│ STATUS: 🟢 ONLINE | CONSTRUINDO O FUTURO                         │
+│ LOCALIZAÇÃO: 🇧🇷 CASCAVEL, PR → 🌍 IMPACTO GLOBAL              │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CODIFICANDO%20O%20IMPOSSÍVEL&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DESENVOLVEDOR%20FULL%20STACK&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-</div>
-
----
-
-<div align="center">
-
-## ⚡ ACESSO RÁPIDO
-
-[![🏠 Home](https://img.shields.io/badge/🏠_HOME-FF6B00?style=for-the-badge&logoColor=white)](https://github.com/SEU_USUARIO)
-[![💼 Portfolio](https://img.shields.io/badge/💼_PORTFOLIO-00FF9F?style=for-the-badge&logoColor=black)](https://seu-site.com)
-[![📧 Contato](https://img.shields.io/badge/📧_CONTATO-00D4FF?style=for-the-badge&logoColor=black)](mailto:seu@email.com)
-[![📊 Stats](https://img.shields.io/badge/📊_ESTATÍSTICAS-FF6B00?style=for-the-badge&logoColor=white)](#-telemetria-neural)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/venery-gutiery-b02482326/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SERUMANINH0)
+[![Instagram](https://img.shields.io/badge/Instagram-00FF9F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/venerygutieryy/)
+[![Email](https://img.shields.io/badge/Email-00D4FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gutieryoficial4@gmail.com)
 
 </div>
 
@@ -42,30 +35,38 @@
 
 ## 💻 INICIALIZANDO PERFIL...
 
-```python
-class Desenvolvedor:
-    def __init__(self):
-        self.nome = "SEU NOME"
-        self.role = "🚀 Engenheiro de Software | Arquiteto Digital"
-        self.location = "🌍 Brasil • 🌐 Mundo Virtual"
-        self.code_languages = ["Python", "JavaScript", "TypeScript", "Rust"]
-        self.mission = "Transformar ideias em realidade digital"
-        
-    def habilidades(self):
-        return {
-            "frontend": ["React", "Next.js", "Vue", "Tailwind"],
-            "backend": ["Node.js", "Express", "Django", "FastAPI"],
-            "devops": ["Docker", "Kubernetes", "AWS", "CI/CD"],
-            "database": ["PostgreSQL", "MongoDB", "Redis"],
-            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn"],
-        }
+```java
+public class VeneryGutiery {
+    private String nome = "Venery Gutiery";
+    private int idade = 22;
+    private String location = "Cascavel, Paraná, Brasil";
+    private String role = "🚀 Desenvolvedor Full Stack | Eng. Software";
+    private String[] paixoes = {"Código", "Inovação", "Tecnologia", "Java"};
     
-    def objetivo_atual(self):
-        return "Construindo produtos que impactam milhões 🎯"
-
-# Instância ativa
-dev = Desenvolvedor()
-dev.start() # >> Sistema iniciado com sucesso! ✨
+    public String sobreMim() {
+        return """
+            Desenvolvedor Full Stack formado em Engenharia de Software,
+            com experiência sólida em Java, Spring Framework, e desenvolvimento
+            web moderno. Apaixonado por criar soluções elegantes e funcionais
+            que resolvem problemas reais.
+            """;
+    }
+    
+    public Map<String, List<String>> getStack() {
+        return Map.of(
+            "backend", List.of("Java", "Spring Boot", "Spring Framework", "API REST"),
+            "frontend", List.of("HTML5", "CSS3", "JavaScript", "TypeScript", "Dart"),
+            "mobile", List.of("Flutter", "Dart"),
+            "gamedev", List.of("C#", "Unity", "Game Development"),
+            "database", List.of("SQL", "JPQL", "MySQL"),
+            "tools", List.of("Git", "VS Code", "IntelliJ", "Postman")
+        );
+    }
+    
+    public String objetivo2025() {
+        return "Dominar arquitetura de microsserviços e Cloud Native! ☁️";
+    }
+}
 ```
 
 ---
@@ -74,140 +75,239 @@ dev.start() # >> Sistema iniciado com sucesso! ✨
 
 <div align="center">
 
-### 🔥 DOMÍNIO TOTAL
+### 💪 TECNOLOGIAS CORE
 
-![Python](https://img.shields.io/badge/Python-FF6B00?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF9F?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-00D4FF?style=for-the-badge&logo=typescript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-FF6B00?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00FF9F?style=for-the-badge&logo=go&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FF6B00?style=for-the-badge&logo=oracle&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-00FF9F?style=for-the-badge&logo=spring&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-00D4FF?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF6B00?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-00FF9F?style=for-the-badge&logo=dart&logoColor=black)
 
-### ⚙️ FRAMEWORKS & BIBLIOTECAS
+### 🚀 FRAMEWORKS & FERRAMENTAS
 
-![React](https://img.shields.io/badge/React-00D4FF?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-FF6B00?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-00FF9F?style=for-the-badge&logo=node.js&logoColor=black)
-![Django](https://img.shields.io/badge/Django-00D4FF?style=for-the-badge&logo=django&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-00D4FF?style=for-the-badge&logo=spring-boot&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-FF6B00?style=for-the-badge&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-00FF9F?style=for-the-badge&logo=unity&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-00D4FF?style=for-the-badge&logo=c-sharp&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FF6B00?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00FF9F?style=for-the-badge&logo=css3&logoColor=black)
 
-### 🛠️ FERRAMENTAS & DEVOPS
+### 🛠️ DESENVOLVIMENTO
 
-![Docker](https://img.shields.io/badge/Docker-00FF9F?style=for-the-badge&logo=docker&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-00D4FF?style=for-the-badge&logo=kubernetes&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF6B00?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-00FF9F?style=for-the-badge&logo=git&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-00D4FF?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Git](https://img.shields.io/badge/Git-00D4FF?style=for-the-badge&logo=git&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-FF6B00?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-00FF9F?style=for-the-badge&logo=intellij-idea&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-00D4FF?style=for-the-badge&logo=postman&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 PROJETOS REVOLUCIONÁRIOS
+## 🚀 PROJETOS DESTACADOS
 
 <div align="center">
 
-<!-- PROJETO 1 -->
+<!-- PROJETO 1 - TCC -->
 <details open>
-<summary><h3>🌟 QUANTUM NEXUS - Plataforma de IA Avançada</h3></summary>
+<summary><h3>📚 Sistema TCC - Plataforma Acadêmica</h3></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-🟢_COMPLETO-00FF9F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TIPO-TCC-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ANO-2024-00D4FF?style=for-the-badge"/>
+
+```html
+<!-- Sistema completo de gerenciamento de TCC -->
+<sistema>
+  <funcionalidades>
+    - Cadastro de alunos e orientadores
+    - Gerenciamento de documentos
+    - Timeline de entregas
+    - Sistema de avaliação
+  </funcionalidades>
+</sistema>
+```
+
+**🎨 Stack:**
+`HTML5` • `CSS3` • `JavaScript` • `Backend Integration`
+
+**✨ Features:**
+- 📝 Interface intuitiva para gestão acadêmica
+- 🔐 Sistema de autenticação
+- 📊 Dashboard de acompanhamento
+- 📁 Upload e gestão de documentos
+
+[![Ver Repositório](https://img.shields.io/badge/📁_VER_TCC-FF6B00?style=for-the-badge)](https://github.com/SERUMANINH0/TCC)
+[![Ver TCC_2](https://img.shields.io/badge/📁_VER_TCC__2-00FF9F?style=for-the-badge)](https://github.com/SERUMANINH0/TCC_2)
+
+</details>
+
+<!-- PROJETO 2 - Spring Boot Applications -->
+<details>
+<summary><h3>☕ Ecossistema Spring - APIs RESTful</h3></summary>
 
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-🟢_PRODUÇÃO-00FF9F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/USUÁRIOS-10K+-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VERSÃO-3.2.1-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APIS-4+-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FRAMEWORK-SPRING-FF6B00?style=for-the-badge"/>
+
+```java
+@RestController
+@RequestMapping("/api")
+public class SpringEcosystem {
+    
+    // API de Séries com JPQL e SQL
+    @GetMapping("/series")
+    public ResponseEntity<List<Serie>> getSeries() {
+        // Implementação completa de CRUD
+        return ResponseEntity.ok(series);
+    }
+    
+    // Tabela FIPE - Integração externa
+    @GetMapping("/fipe/{codigo}")
+    public Veiculo consultarFipe(@PathVariable String codigo) {
+        return fipeService.consultar(codigo);
+    }
+}
+```
+
+**🎨 Stack:**
+`Java 1.6-1.8` • `Spring Boot` • `Spring Framework` • `JPQL/SQL` • `REST API`
+
+**✨ Aplicações Desenvolvidas:**
+- 🎬 **API de Séries**: CRUD completo com JPQL e queries otimizadas
+- 🚗 **Tabela FIPE**: Integração com API externa para consulta de veículos
+- 🎵 **Sistema de Música**: Gerenciamento com OOP avançado
+- 💳 **Cartão de Crédito**: Sistema de transações e limites
+
+[![Ver Séries JPQL](https://img.shields.io/badge/📁_API_SÉRIES-FF6B00?style=for-the-badge)](https://github.com/SERUMANINH0/Aplica-o_Serie_API_Spring_framework-_JPQL_SQL-_Java_1.8)
+[![Ver Tabela FIPE](https://img.shields.io/badge/📁_TABELA_FIPE-00FF9F?style=for-the-badge)](https://github.com/SERUMANINH0/Aplica-o_TabelaFipe_API_Spring_framework-_Java_1.7)
+[![Ver Música](https://img.shields.io/badge/📁_MÚSICA_APP-00D4FF?style=for-the-badge)](https://github.com/SERUMANINH0/Aplicação_Música_Java_Aula_1.5)
+
+</details>
+
+<!-- PROJETO 3 - Flutter Apps -->
+<details>
+<summary><h3>📱 Flutter Apps - Mobile Development</h3></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-🟢_ATIVO-00FF9F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APPS-3+-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FLUTTER-DART-00D4FF?style=for-the-badge"/>
+
+```dart
+class FlutterApps extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Venery Apps',
+      theme: ThemeData.dark(),
+      home: Scaffold(
+        body: Column(
+          children: [
+            AnyBankApp(),      // App bancário completo
+            NotasApp(),        // Sistema de notas
+            CalculadoraApp(),  // Calculadora avançada
+          ],
+        ),
+      ),
+    );
+  }
+}
+```
+
+**🎨 Stack:**
+`Dart` • `Flutter` • `Material Design` • `OOP`
+
+**✨ Aplicações:**
+- 🏦 **AnyBank**: Aplicação bancária com gestão de contas
+- 📝 **Sistema de Notas**: App educacional para estudantes
+- 🔢 **Calculadora**: Calculadora científica avançada
+- 🎯 **POO em Dart**: Projetos focados em Orientação a Objetos
+
+[![Ver AnyBank](https://img.shields.io/badge/📁_ANYBANK-FF6B00?style=for-the-badge)](https://github.com/SERUMANINH0/anybank_praticando_dart)
+[![Ver Notas](https://img.shields.io/badge/📁_NOTAS_APP-00FF9F?style=for-the-badge)](https://github.com/SERUMANINH0/Aplicacao_notas_dart)
+[![Ver Calculadora](https://img.shields.io/badge/📁_CALCULADORA-00D4FF?style=for-the-badge)](https://github.com/SERUMANINH0/calculadora_dardo)
+
+</details>
+
+<!-- PROJETO 4 - Game Development -->
+<details>
+<summary><h3>🎮 Jogo 2D - Unity Engine</h3></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-🟢_COMPLETO-00FF9F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ENGINE-UNITY-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LANGUAGE-C%23-00D4FF?style=for-the-badge"/>
+
+```csharp
+public class GameController : MonoBehaviour 
+{
+    private PlayerController player;
+    private GameManager gameManager;
+    
+    void Start() {
+        // Sistema de física 2D
+        // Mecânicas de movimento
+        // Sistema de pontuação
+        InitializeGame();
+    }
+    
+    void Update() {
+        HandlePlayerInput();
+        UpdateGameLogic();
+    }
+}
+```
+
+**🎨 Stack:**
+`C#` • `Unity Engine` • `2D Physics` • `Game Design`
+
+**✨ Features:**
+- 🎮 Mecânicas de gameplay fluidas
+- 🎨 Arte e animações 2D
+- 🔊 Sistema de áudio integrado
+- 🏆 Sistema de pontuação e conquistas
+
+[![Ver Jogo](https://img.shields.io/badge/📁_VER_JOGO-FF6B00?style=for-the-badge)](https://github.com/SERUMANINH0/jogo_2d_venery)
+
+</details>
+
+<!-- PROJETO 5 - Portfolio & Web Projects -->
+<details>
+<summary><h3>🌐 Projetos Web - Full Stack</h3></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/PROJETOS-10+-00FF9F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TIPO-FULL_STACK-FF6B00?style=for-the-badge"/>
 
 ```typescript
-// Sistema de IA que revoluciona análise de dados
-interface QuantumNexus {
-  engine: "Neural Network v3.0";
-  performance: "99.7% de precisão";
-  scalability: "Processamento em tempo real";
-  impact: "Transformando indústrias";
+interface WebProjects {
+  portfolio: {
+    tech: ["HTML5", "CSS3", "JavaScript"];
+    features: ["Responsivo", "Animações", "SEO"];
+  };
+  applications: {
+    geradorSenhas: "Segurança & Criptografia";
+    sistemaNotas: "CRUD completo";
+    projetos365dias: "Projetos pessoais";
+  };
 }
 ```
 
-**🎨 Stack:**
-`Python` • `TensorFlow` • `FastAPI` • `React` • `PostgreSQL`
+**🎨 Projetos Destacados:**
+- 💼 **Portfolio**: Website pessoal responsivo
+- 🔐 **Gerador de Senhas**: App de segurança
+- 📊 **Sistema de Gestão**: Aplicações CRUD
+- 🎨 **Estudos CSS**: Layouts modernos e animações
 
-**✨ Features:**
-- 🧠 ML/AI para predições em tempo real
-- 📊 Dashboard interativo com visualizações 3D
-- 🔐 Autenticação multi-fator e criptografia end-to-end
-- ⚡ API REST + WebSocket para streaming de dados
-
-[![Ver Repositório](https://img.shields.io/badge/📁_VER_CÓDIGO-FF6B00?style=for-the-badge)](https://github.com/SEU_USUARIO/quantum-nexus)
-[![Demo Live](https://img.shields.io/badge/🌐_DEMO_LIVE-00FF9F?style=for-the-badge)](https://demo.seu-site.com)
-
-</details>
-
-<!-- PROJETO 2 -->
-<details>
-<summary><h3>⚡ HYPERLINK - Rede Social Web3</h3></summary>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-🟡_BETA-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DOWNLOADS-5K+-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BLOCKCHAIN-ETHEREUM-00FF9F?style=for-the-badge"/>
-
-```javascript
-// Plataforma descentralizada de conexões
-const hyperlink = {
-  technology: "Blockchain + IPFS",
-  users: "Propriedade dos dados garantida",
-  token: "HYPER (ERC-20)",
-  vision: "Social media sem censura"
-};
-```
-
-**🎨 Stack:**
-`Solidity` • `Web3.js` • `Next.js` • `IPFS` • `Ethereum`
-
-**✨ Features:**
-- 🪙 Token nativo e sistema de recompensas
-- 🔒 Armazenamento descentralizado (IPFS)
-- 💎 NFTs para criadores de conteúdo
-- 🌍 Governança por DAO
-
-[![Ver Repositório](https://img.shields.io/badge/📁_VER_CÓDIGO-FF6B00?style=for-the-badge)](https://github.com/SEU_USUARIO/hyperlink)
-[![Whitepaper](https://img.shields.io/badge/📄_WHITEPAPER-00D4FF?style=for-the-badge)](https://docs.hyperlink.com)
-
-</details>
-
-<!-- PROJETO 3 -->
-<details>
-<summary><h3>🎮 METAVERSE ENGINE - Game Engine 3D</h3></summary>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-🔴_EXPERIMENTAL-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STARS-1.2K-00FF9F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LICENSE-MIT-00D4FF?style=for-the-badge"/>
-
-```rust
-// Motor de jogos 3D de alta performance
-fn create_metaverse() -> Result<World, Error> {
-    let world = World::new()
-        .with_physics_engine()
-        .with_ray_tracing()
-        .with_multiplayer(1000);
-    
-    world.render(); // 🚀 60 FPS garantidos
-    Ok(world)
-}
-```
-
-**🎨 Stack:**
-`Rust` • `WebAssembly` • `WebGL` • `WebRTC` • `Three.js`
-
-**✨ Features:**
-- 🎨 Ray tracing em tempo real
-- 🌐 Multiplayer massivo (1000+ jogadores)
-- 🎵 Sistema de áudio espacial 3D
-- 🔧 Editor visual drag-and-drop
-
-[![Ver Repositório](https://img.shields.io/badge/📁_VER_CÓDIGO-FF6B00?style=for-the-badge)](https://github.com/SEU_USUARIO/metaverse-engine)
-[![Playground](https://img.shields.io/badge/🎮_PLAYGROUND-00FF9F?style=for-the-badge)](https://playground.metaverse.com)
+[![Ver Portfolio](https://img.shields.io/badge/📁_PORTFOLIO-FF6B00?style=for-the-badge)](https://github.com/SERUMANINH0/portfólio)
+[![Ver Projetos CSS](https://img.shields.io/badge/📁_CSS_PROJECTS-00FF9F?style=for-the-badge)](https://github.com/SERUMANINH0/praticando_css_e_html)
 
 </details>
 
@@ -215,86 +315,94 @@ fn create_metaverse() -> Result<World, Error> {
 
 ---
 
-## 📊 TELEMETRIA NEURAL
+## 📊 ESTATÍSTICAS NEURAIS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&bg_color=0d1117&title_color=FF6B00&text_color=00FF9F&icon_color=00D4FF&border_color=FF6B00&hide_border=false&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&bg_color=0d1117&title_color=FF6B00&text_color=00FF9F&border_color=00D4FF&hide_border=false&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SERUMANINH0&show_icons=true&theme=transparent&bg_color=0d1117&title_color=FF6B00&text_color=00FF9F&icon_color=00D4FF&border_color=FF6B00&hide_border=false&border_radius=10&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SERUMANINH0&layout=compact&theme=transparent&bg_color=0d1117&title_color=FF6B00&text_color=00FF9F&border_color=00D4FF&hide_border=false&border_radius=10&langs_count=8"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=transparent&background=0d1117&ring=FF6B00&fire=00FF9F&currStreakLabel=00D4FF&sideLabels=FF6B00&dates=00FF9F&border=00D4FF&stroke=FF6B00&border_radius=10"/>
-<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&custom_title=Atividade%20Neural&bg_color=0d1117&color=00FF9F&line=FF6B00&point=00D4FF&area=true&hide_border=false&border_radius=10&area_color=FF6B00"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SERUMANINH0&theme=transparent&background=0d1117&ring=FF6B00&fire=00FF9F&currStreakLabel=00D4FF&sideLabels=FF6B00&dates=00FF9F&border=00D4FF&stroke=FF6B00&border_radius=10"/>
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=SERUMANINH0&custom_title=Jornada%20de%20Desenvolvimento&bg_color=0d1117&color=00FF9F&line=FF6B00&point=00D4FF&area=true&hide_border=false&border_radius=10&area_color=FF6B00"/>
 
 </div>
 
 <div align="center">
 
-### 🏆 TROFÉUS GITHUB
+### 🏆 CONQUISTAS GITHUB
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SERUMANINH0&theme=darkhub&no-frame=true&no-bg=true&column=7&title=Commits,Repositories,Stars,Followers&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
 
 </div>
 
 ---
 
-## 💡 MÓDULO DE CONHECIMENTO
+## 💡 DOMÍNIO TECNOLÓGICO
 
 ```diff
-+ Arquitetura de Software     ████████████████████ 95%
-+ Desenvolvimento Full Stack   ███████████████████  90%
-+ DevOps & Cloud Computing     ██████████████████   85%
-+ Machine Learning & IA        █████████████████    80%
-+ Blockchain & Web3            ████████████████     75%
-+ Segurança da Informação      ███████████████      70%
-+ UI/UX Design                 ██████████████       65%
++ Java & Spring Framework     ████████████████████ 95%
++ JavaScript & TypeScript     ██████████████████   85%
++ Flutter & Dart              ████████████████     75%
++ HTML & CSS                  ███████████████████  90%
++ C# & Unity                  ███████████████      70%
++ SQL & JPQL                  ██████████████████   85%
++ REST APIs                   ███████████████████  90%
++ Git & Version Control       ████████████████████ 95%
++ Design Patterns & OOP       ███████████████████  90%
 ```
 
 ---
 
-## 🎯 MISSÕES EM ANDAMENTO
+## 📈 LINHA DO TEMPO
+
+```mermaid
+gantt
+    title Jornada de Desenvolvimento
+    dateFormat YYYY-MM
+    section Fundação
+    Início na Programação     :done, 2022-07, 2023-01
+    section Crescimento
+    Java & OOP                :done, 2023-01, 2024-01
+    Spring Framework          :done, 2024-01, 2024-06
+    Flutter & Mobile          :done, 2024-03, 2024-06
+    section Especialização
+    TCC & Projetos Avançados  :done, 2024-06, 2024-12
+    Microsserviços & Cloud    :active, 2025-01, 2025-12
+```
+
+---
+
+## 🎯 OBJETIVOS 2025
 
 <div align="center">
 
-| 🎯 OBJETIVO | 📊 PROGRESSO | ⏰ PRAZO | 🏅 RECOMPENSA |
-|:-----------|:------------:|:--------:|:-------------:|
-| 🚀 Lançar SaaS revolucionário | ![75%](https://progress-bar.dev/75/?width=120&color=FF6B00) | Q1 2025 | 💰 Startup |
-| 🧠 Dominar arquitetura serverless | ![90%](https://progress-bar.dev/90/?width=120&color=00FF9F) | Q2 2025 | 📜 Certificação |
-| 🌍 Contribuir 1000+ commits OSS | ![68%](https://progress-bar.dev/68/?width=120&color=00D4FF) | Dez 2025 | ⭐ Reconhecimento |
-| 🎓 Certificação AWS Solutions Architect | ![50%](https://progress-bar.dev/50/?width=120&color=FF6B00) | Q3 2025 | 🏆 Badge Elite |
+| 🎯 MISSÃO | 📊 PROGRESSO | 🏅 META |
+|:-----------|:------------:|:-------------:|
+| ☁️ Dominar Spring Cloud & Microsserviços | ![30%](https://progress-bar.dev/30/?width=120&color=FF6B00) | Arquitetura avançada |
+| 🐳 Containerização com Docker & K8s | ![25%](https://progress-bar.dev/25/?width=120&color=00FF9F) | DevOps Master |
+| 🚀 Contribuir em Open Source | ![15%](https://progress-bar.dev/15/?width=120&color=00D4FF) | 100+ commits |
+| 📱 Publicar app Flutter na Play Store | ![40%](https://progress-bar.dev/40/?width=120&color=FF6B00) | App publicado |
+| 🎓 Certificação AWS/Azure | ![20%](https://progress-bar.dev/20/?width=120&color=00FF9F) | Cloud Certified |
 
 </div>
 
 ---
 
-## 💬 CITAÇÃO NEURAL DO DIA
+## 💬 FILOSOFIA DE CÓDIGO
 
 <div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║  "A inovação não é sobre ter todas as respostas,             ║
-║   mas sobre fazer as perguntas certas e ter coragem          ║
-║   de explorar o desconhecido."                               ║
+║  "Código limpo não é sobre fazer funcionar,                  ║
+║   é sobre fazer funcionar de forma elegante,                 ║
+║   mantível e que outros desenvolvedores possam               ║
+║   compreender e evoluir."                                    ║
 ║                                                               ║
-║                                      — Sistema Neural v3.0   ║
+║                                     — Clean Code Philosophy  ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
----
-
-## 🌐 CANAIS DE COMUNICAÇÃO
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6B00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/SEU_USUARIO)
-[![Twitter](https://img.shields.io/badge/Twitter-00FF9F?style=for-the-badge&logo=twitter&logoColor=black&labelColor=0d1117)](https://twitter.com/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117)](https://seu-site.com)
-[![Email](https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:seu@email.com)
-[![Discord](https://img.shields.io/badge/Discord-00FF9F?style=for-the-badge&logo=discord&logoColor=black&labelColor=0d1117)](https://discord.gg/seu-server)
 
 </div>
 
@@ -304,66 +412,92 @@ fn create_metaverse() -> Result<World, Error> {
 
 <div align="center">
 
-![](https://img.shields.io/badge/🏆_100+_Repositórios-FF6B00?style=for-the-badge)
-![](https://img.shields.io/badge/⭐_500+_Stars-00FF9F?style=for-the-badge)
-![](https://img.shields.io/badge/🔥_90_Day_Streak-00D4FF?style=for-the-badge)
-![](https://img.shields.io/badge/🚀_50+_Projetos-FF6B00?style=for-the-badge)
-![](https://img.shields.io/badge/👥_1K+_Seguidores-00FF9F?style=for-the-badge)
-![](https://img.shields.io/badge/💡_Open_Source_Contribuidor-00D4FF?style=for-the-badge)
+![](https://img.shields.io/badge/🎓_Engenheiro_de_Software-FF6B00?style=for-the-badge)
+![](https://img.shields.io/badge/☕_Java_Developer-00FF9F?style=for-the-badge)
+![](https://img.shields.io/badge/🚀_35+_Repositórios-00D4FF?style=for-the-badge)
+![](https://img.shields.io/badge/📱_Mobile_Developer-FF6B00?style=for-the-badge)
+![](https://img.shields.io/badge/🎮_Game_Developer-00FF9F?style=for-the-badge)
+![](https://img.shields.io/badge/🌐_Full_Stack-00D4FF?style=for-the-badge)
+![](https://img.shields.io/badge/💡_Clean_Code_Advocate-FF6B00?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📈 GRÁFICO DE CONTRIBUIÇÕES
+## 🌟 SOBRE MIM
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 INICIAR COLABORAÇÃO
-
-```javascript
-async function colaborar() {
-  const voce = new Desenvolvedor();
-  const eu = new Desenvolvedor();
-  
-  if (voce.interesse === "alto" && voce.energia === "máxima") {
-    const projeto = await criarJuntos(voce, eu);
-    return projeto.revolucionar();
-  }
-  
-  console.log("💡 Vamos criar algo extraordinário juntos!");
+```java
+public class AboutMe {
+    public static void main(String[] args) {
+        Developer venery = new Developer();
+        
+        System.out.println("👋 Olá! Sou o Venery");
+        System.out.println("📍 Cascavel, PR - Brasil");
+        System.out.println("🎓 Engenheiro de Software");
+        System.out.println("💼 22 anos | Full Stack Developer");
+        
+        venery.setSpecialties(
+            "Java", "Spring Boot", "Flutter", 
+            "Web Development", "Game Development"
+        );
+        
+        venery.setPassion("Criar soluções que impactam positivamente");
+        venery.setGoal("Arquitetura de software escalável e cloud-native");
+        
+        System.out.println("\n✨ Sempre aprendendo, sempre evoluindo!");
+    }
 }
-
-// Execute: colaborar()
 ```
 
-### 💌 Estou sempre aberto a:
-✨ Projetos inovadores • 🤝 Colaborações • 💼 Oportunidades • 📚 Compartilhar conhecimento
+---
+
+## 🤝 VAMOS CONECTAR?
+
+<div align="center">
+
+### 💌 Aberto para:
+✨ Oportunidades de trabalho  
+🤝 Colaborações em projetos  
+📚 Mentorias e troca de conhecimento  
+🚀 Discussões sobre arquitetura e boas práticas
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/venery-gutiery-b02482326/)
+[![Instagram](https://img.shields.io/badge/Instagram-Seguir-FF6B00?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/venerygutieryy/)
+[![Email](https://img.shields.io/badge/Email-Contato-00FF9F?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gutieryoficial4@gmail.com)
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 📊 MÉTRICAS EM TEMPO REAL
 
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_USUARIO&left_color=0d1117&right_color=FF6B00&left_text=Visitantes)
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00FF9F&style=flat-square&label=Views)
-![Última Atividade](https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_USUARIO?label=Última%20Atividade&color=00D4FF&style=flat-square)
-![Commits Este Mês](https://img.shields.io/github/commit-activity/m/SEU_USUARIO/SEU_USUARIO?label=Commits%20Mensais&color=FF6B00&style=flat-square)
+<div align="center">
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=SERUMANINH0.SERUMANINH0&left_color=0d1117&right_color=FF6B00&left_text=Visitantes)
+![Profile Views](https://komarev.com/ghpvc/?username=SERUMANINH0&color=00FF9F&style=flat-square&label=Views)
+![Seguidores](https://img.shields.io/github/followers/SERUMANINH0?label=Seguidores&style=flat-square&color=00D4FF)
+![Última Atividade](https://img.shields.io/github/last-commit/SERUMANINH0/SERUMANINH0?label=Última%20Atividade&color=FF6B00&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 PRINCÍPIOS DE DESENVOLVIMENTO
+
+```java
+while (alive) {
+    learn();
+    code();
+    refactor();
+    deploy();
+    improve();
+    repeat();
+}
+
+// "O código que escrevemos hoje é o legado que deixamos para o futuro"
+```
 
 </div>
 
@@ -375,15 +509,18 @@ async function colaborar() {
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
 ║  ⚡ SISTEMA: 100% OPERACIONAL                                     ║
-║  🧠 NEURAL CORES: 8/8 ATIVOS                                      ║
-║  🚀 MISSÃO: TRANSFORMANDO CÓDIGO EM REALIDADE                     ║
-║  💡 POWERED BY: CAFÉ • CÓDIGO • CRIATIVIDADE                      ║
+║  🎓 FORMAÇÃO: ENGENHARIA DE SOFTWARE                              ║
+║  ☕ ESPECIALIDADE: JAVA & SPRING ECOSYSTEM                        ║
+║  🚀 MISSÃO: CÓDIGO LIMPO • ARQUITETURA SÓLIDA • INOVAÇÃO         ║
+║  💡 POWERED BY: CAFÉ • CLEAN CODE • CONTINUOUS LEARNING          ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-**⭐ Se este perfil te inspirou, deixe uma estrela! ⭐**
+### ⭐ Obrigado pela visita! Vamos construir o futuro com código de qualidade! ⭐
+
+**"Simplicidade é o último grau de sofisticação." - Leonardo da Vinci**
 
 </div>
