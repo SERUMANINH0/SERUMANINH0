@@ -2,11 +2,14 @@ name: Gerar Snake
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # executa todo dia às 03:00 (horário de Brasília)
-  workflow_dispatch:      # permite execução manual
+    - cron: "0 6 * * *"  # Executa às 03:00 (horário de Brasília)
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write  # 🔥 Necessário para permitir upload dos arquivos gerados
 
 jobs:
   build:
