@@ -50,7 +50,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-## 👨‍💻 `$ whoami`
+## `$ whoami`
 
 ```java
 @SpringBootApplication
@@ -79,11 +79,11 @@ public class VeneryGutiery {
 
 ---
 
-## 🛠️ **TECH STACK ARSENAL**
+## **TECH STACK ARSENAL**
 
 <div align="center">
 
-### 🔥 **CORE TECHNOLOGIES**
+### **CORE TECHNOLOGIES**
 
 <table>
 <tr>
@@ -118,7 +118,7 @@ public class VeneryGutiery {
 </tr>
 </table>
 
-### 📱 **FRAMEWORKS & PLATFORMS**
+###  **FRAMEWORKS & PLATFORMS**
 
 <table>
 <tr>
@@ -153,7 +153,7 @@ public class VeneryGutiery {
 </tr>
 </table>
 
-### 🎨 **FRONTEND & DESIGN**
+###  **FRONTEND & DESIGN**
 
 <table>
 <tr>
@@ -184,7 +184,7 @@ public class VeneryGutiery {
 </tr>
 </table>
 
-### 🔧 **TOOLS & DEVOPS**
+###  **TOOLS & DEVOPS**
 
 <table>
 <tr>
@@ -223,7 +223,7 @@ public class VeneryGutiery {
 
 ---
 
-## 📊 **GITHUB ANALYTICS**
+##  **GITHUB ANALYTICS**
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SERUMANINH0&show_icons=true&count_private=true&hide_border=true&title_color=00FF9F&icon_color=00FF9F&text_color=c9d1d9&bg_color=0d1117" alt="Venery Gutiery github stats" /> 
@@ -241,7 +241,7 @@ public class VeneryGutiery {
 
 ---
 
-## 🚀 **PROJETOS EM DESTAQUE**
+##  **PROJETOS EM DESTAQUE**
 
 <div align="center">
 
@@ -264,10 +264,10 @@ public class VeneryGutiery {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 **Features:**
-- 🎬 API REST completa de séries
-- 🔍 Queries JPQL otimizadas
-- 📊 Integração com banco de dados
-- 🔐 Sistema de autenticação
+-  API REST completa de séries
+-  Queries JPQL otimizadas
+-  Integração com banco de dados
+-  Sistema de autenticação
 
 </td>
 
@@ -287,10 +287,10 @@ public class VeneryGutiery {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Features:**
-- 🏦 App bancário completo
-- 💳 Gestão de transações
-- 📊 Dashboard interativo
-- 🎨 Material Design 3
+-  App bancário completo
+-  Gestão de transações
+-  Dashboard interativo
+-  Material Design 3
 
 </td>
 </tr>
@@ -298,7 +298,7 @@ public class VeneryGutiery {
 <tr>
 <td width="50%">
 
-<h3 align="center">🎮 Unity 2D Game</h3>
+<h3 align="center"> Unity 2D Game</h3>
 
 <div align="center">
 <a href="https://github.com/SERUMANINH0/jogo_2d_venery">
@@ -312,16 +312,16 @@ public class VeneryGutiery {
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 
 **Features:**
-- 🎮 Mecânicas de gameplay fluidas
-- 🎨 Arte e animações 2D
-- 🔊 Sistema de áudio integrado
-- 🏆 Sistema de pontuação
+-  Mecânicas de gameplay fluidas
+-  Arte e animações 2D
+-  Sistema de áudio integrado
+-  Sistema de pontuação
 
 </td>
 
 <td width="50%">
 
-<h3 align="center">🌐 Portfolio & Web Projects</h3>
+<h3 align="center"> Portfolio & Web Projects</h3>
 
 <div align="center">
 <a href="https://github.com/SERUMANINH0/TCC">
@@ -336,10 +336,10 @@ public class VeneryGutiery {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Features:**
-- 📚 Sistema acadêmico completo
-- 📝 Gestão de documentos
-- 👥 Multi-usuários
-- 📊 Dashboard administrativo
+-  Sistema acadêmico completo
+-  Gestão de documentos
+-  Multi-usuários
+-  Dashboard administrativo
 
 </td>
 </tr>
@@ -349,7 +349,7 @@ public class VeneryGutiery {
 
 ---
 
-## 💡 **SKILL LEVELS**
+##  **SKILL LEVELS**
 
 <div align="center">
 
@@ -374,23 +374,23 @@ public class VeneryGutiery {
 
 ---
 
-## 🎯 **2025 ROADMAP**
+##  **2025 ROADMAP**
 
 <div align="center">
 
-| 🎯 **OBJETIVO** | 📊 **PROGRESSO** | 🗓️ **PRAZO** | 🏆 **STATUS** |
+|  **OBJETIVO** |  **PROGRESSO** |  **PRAZO** |  **STATUS** |
 |:----------------|:---------------:|:-------------:|:-------------:|
-| ☁️ Dominar Spring Cloud | ![30%](https://progress-bar.dev/30/?scale=100&title=&width=120&color=00FF9F) | Q2 2025 | 🟡 Em Progresso |
-| 🐳 Docker & Kubernetes | ![25%](https://progress-bar.dev/25/?scale=100&title=&width=120&color=00D4FF) | Q2 2025 | 🟡 Iniciado |
-| 🚀 100+ Commits OSS | ![15%](https://progress-bar.dev/15/?scale=100&title=&width=120&color=FF6B00) | Q4 2025 | 🟢 Ativo |
-| 📱 App na Play Store | ![40%](https://progress-bar.dev/40/?scale=100&title=&width=120&color=00FF9F) | Q3 2025 | 🟡 Desenvolvimento |
-| 🎓 Cert. AWS/Azure | ![20%](https://progress-bar.dev/20/?scale=100&title=&width=120&color=00D4FF) | Q4 2025 | 🟢 Estudando |
+|  Dominar Spring Cloud | ![30%](https://progress-bar.dev/30/?scale=100&title=&width=120&color=00FF9F) | Q2 2025 | 🟡 Em Progresso |
+|  Docker & Kubernetes | ![25%](https://progress-bar.dev/25/?scale=100&title=&width=120&color=00D4FF) | Q2 2025 | 🟡 Iniciado |
+|  100+ Commits OSS | ![15%](https://progress-bar.dev/15/?scale=100&title=&width=120&color=FF6B00) | Q4 2025 | 🟢 Ativo |
+|  App na Play Store | ![40%](https://progress-bar.dev/40/?scale=100&title=&width=120&color=00FF9F) | Q3 2025 | 🟡 Desenvolvimento |
+|  Cert. AWS/Azure | ![20%](https://progress-bar.dev/20/?scale=100&title=&width=120&color=00D4FF) | Q4 2025 | 🟢 Estudando |
 
 </div>
 
 ---
 
-## 🏆 **CONQUISTAS & BADGES**
+##  **CONQUISTAS & BADGES**
 
 <div align="center">
 
@@ -408,7 +408,7 @@ public class VeneryGutiery {
 
 ---
 
-## 💭 **FILOSOFIA DE CÓDIGO**
+##  **FILOSOFIA DE CÓDIGO**
 
 <div align="center">
 
@@ -427,7 +427,7 @@ public class VeneryGutiery {
 
 <br>
 
-### 🎯 **PRINCÍPIOS QUE SIGO:**
+###  **PRINCÍPIOS QUE SIGO:**
 
 **SOLID** • **Clean Code** • **DRY** • **KISS** • **YAGNI** • **TDD**
 
@@ -435,19 +435,19 @@ public class VeneryGutiery {
 
 ---
 
-## 📫 **VAMOS CONECTAR?**
+##  **VAMOS CONECTAR?**
 
 <div align="center">
 
-### 💼 **Aberto para:**
+###  **Aberto para:**
 
 ```typescript
 const opportunities = {
   lookingFor: [
-    "💼 Oportunidades de trabalho Full Stack",
-    "🤝 Colaborações em projetos Open Source",
-    "📚 Mentorias e troca de conhecimento",
-    "🚀 Discussões sobre arquitetura e boas práticas",
+    " Oportunidades de trabalho Full Stack",
+    " Colaborações em projetos Open Source",
+    " Mentorias e troca de conhecimento",
+    " Discussões sobre arquitetura e boas práticas",
     "☕ Bater um papo sobre tecnologia"
   ],
   canHelpWith: [
@@ -483,7 +483,7 @@ const opportunities = {
 
 ---
 
-## 🐍 **COBRA DE CONTRIBUIÇÃO - NEON EDITION**
+##  **COBRA DE CONTRIBUIÇÃO - NEON EDITION**
 
 <div align="center">
 <p align="center">
@@ -499,7 +499,7 @@ const opportunities = {
 
 <div align="center">
 
-## 💻 **CÓDIGO É MINHA LINGUAGEM**
+##  **CÓDIGO É MINHA LINGUAGEM**
 
 ```java
 public class Developer {
@@ -513,7 +513,7 @@ public class Developer {
             repeat();
         }
         
-        System.out.println("🚀 Transformando ideias em realidade, uma linha por vez!");
+        System.out.println(" Transformando ideias em realidade, uma linha por vez!");
     }
 }
 ```
@@ -523,11 +523,11 @@ public class Developer {
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║  ⚡ SISTEMA: 100% OPERACIONAL                                         ║
-║  🎓 FORMAÇÃO: ENGENHARIA DE SOFTWARE                                  ║
-║  ☕ STACK: JAVA • SPRING • FLUTTER • UNITY                            ║
-║  🚀 MISSÃO: CLEAN CODE • SOLID PRINCIPLES • INNOVATION                ║
-║  💡 POWERED BY: CAFÉ ☕ • CÓDIGO 💻 • CONTINUOUS LEARNING 📚         ║
+║   SISTEMA: 100% OPERACIONAL                                         ║
+║   FORMAÇÃO: ENGENHARIA DE SOFTWARE                                  ║
+║   STACK: JAVA • SPRING • FLUTTER • UNITY                            ║
+║   MISSÃO: CLEAN CODE • SOLID PRINCIPLES • INNOVATION                ║
+║   POWERED BY: CAFÉ ☕ • CÓDIGO  • CONTINUOUS LEARNING          ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
@@ -536,7 +536,7 @@ public class Developer {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,21,20,6&height=120&section=footer"/>
 
-### ⭐ **Obrigado pela visita! Vamos construir o futuro juntos!** ⭐
+###  **Obrigado pela visita! Vamos construir o futuro juntos!** 
 
 **"A jornada de mil linhas de código começa com um único commit."**
 
