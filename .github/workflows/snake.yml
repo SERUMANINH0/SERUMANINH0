@@ -21,7 +21,7 @@ jobs:
       - name: Gerar animação da Snake (SVG e PNG)
         uses: Platane/snk@v3
         with:
-          github_user_name: SERUMANINHO
+          github_user_name: SERUMANINH0
           outputs: |
             dist/snake.svg
             dist/snake.png
