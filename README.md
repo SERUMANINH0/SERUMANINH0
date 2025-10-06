@@ -18,7 +18,7 @@
 ║  ┌────────────────────────────────────────────────────────────────┐    ║
 ║  │  STATUS      : ████████████████████████ 100% ONLINE           │    ║
 ║  │  CORES       : ⚡⚡⚡⚡⚡⚡⚡⚡ [8/8 ATIVOS]                   │    ║
-║  │  LOCATION    : 🇧🇷 Cascavel, PR → 🌍 Global Impact           │    ║
+║  │  LOCATION    : 🇧🇷 Cascavel, PR →  Global Impact           │    ║
 ║  │  MISSION     : Transformando café em código desde 2022        │    ║
 ║  └────────────────────────────────────────────────────────────────┘    ║
 ║                                                                          ║
@@ -69,7 +69,7 @@ public class VeneryGutiery {
     
     public static void main(String[] args) {
         SpringApplication.run(VeneryGutiery.class, args);
-        System.out.println("🚀 Sistema inicializado!");
+        System.out.println(" Sistema inicializado!");
         System.out.println("☕ Transformando café em código...");
     }
 }
@@ -273,7 +273,7 @@ public class VeneryGutiery {
 
 <td width="50%">
 
-<h3 align="center">📱 Flutter Mobile Apps</h3>
+<h3 align="center"> Flutter Mobile Apps</h3>
 
 <div align="center">
 <a href="https://github.com/SERUMANINH0/anybank_praticando_dart">
@@ -471,7 +471,7 @@ const opportunities = {
 
 ---
 
-## 📈 **VISITOR & ACTIVITY METRICS**
+##  **VISITOR & ACTIVITY METRICS**
 
 <div align="center">
 
