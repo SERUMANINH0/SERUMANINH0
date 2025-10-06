@@ -523,19 +523,16 @@ const opportunities = {
 <div align="center">
 
 ## 🐍 Cobra de Contribuição - Neon Edition
-
 <p align="center">
   <picture>
     <!-- Tema escuro -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://SERUMANINH0.github.io/SERUMANINH0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://serumaninh0.github.io/SERUMANINH0/github-contribution-grid-snake-dark.svg">
     <!-- Tema claro -->
-    <source media="(prefers-color-scheme: light)" srcset="https://SERUMANINH0.github.io/SERUMANINH0/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://serumaninh0.github.io/SERUMANINH0/github-contribution-grid-snake.svg">
     <!-- Fallback -->
-    <img alt="Cobra de contribuições GitHub" src="https://SERUMANINH0.github.io/SERUMANINH0/snake.svg" style="max-width:100%; border-radius:12px; filter: drop-shadow(0 0 8px #00FF9F);">
+    <img alt="Cobra de contribuições GitHub" src="https://serumaninh0.github.io/SERUMANINH0/github-contribution-grid-snake-dark.svg" style="max-width:100%; border-radius:12px; filter: drop-shadow(0 0 8px #00FF9F);">
   </picture>
 </p>
-
-</div>
 
 ---
 
