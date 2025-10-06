@@ -533,8 +533,4 @@ public class Developer {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,21,20,6&height=120&section=footer"/>
 
-###  **Obrigado pela visita! Vamos construir o futuro juntos!** 
-
-**"A jornada de mil linhas de código começa com um único commit."**
-
 </div>
