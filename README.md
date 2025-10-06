@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 VENERY GUTIERY 🌌
+#  VENERY GUTIERY 
 ### `// ENGENHEIRO DE SOFTWARE • ARQUITETO DIGITAL`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,21,20,6&height=200&section=header&text=BUILDING%20THE%20FUTURE&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Specialist&descAlignY=55&descAlign=50"/>
