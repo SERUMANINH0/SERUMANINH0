@@ -531,7 +531,7 @@ const opportunities = {
     <!-- Tema claro -->
     <source media="(prefers-color-scheme: light)" srcset="https://SERUMANINH0.github.io/SERUMANINH0/output/github-contribution-grid-snake.svg">
     <!-- Fallback -->
-    <img alt="Animação da cobra de contribuições do GitHub" src="https://SERUMANINH0.github.io/SERUMANINH0/output/github-contribution-grid-snake.svg" style="max-width:100%; border-radius: 12px; filter: drop-shadow(0 0 8px #00FF9F);">
+    <img alt="Cobra de contribuições GitHub" src="https://SERUMANINH0.github.io/SERUMANINH0/snake.svg" style="max-width:100%; border-radius:12px; filter: drop-shadow(0 0 8px #00FF9F);">
   </picture>
 </p>
 
