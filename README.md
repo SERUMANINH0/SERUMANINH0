@@ -522,13 +522,18 @@ const opportunities = {
 
 <div align="center">
 
-## 🐍 **CONTRIBUTION SNAKE**
+## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SERUMANINH0/SERUMANINH0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SERUMANINH0/SERUMANINH0/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SERUMANINH0/SERUMANINH0/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <!-- Tema escuro -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://SERUMANINH0.github.io/SERUMANINH0/snake.svg">
+    <!-- Tema claro -->
+    <source media="(prefers-color-scheme: light)" srcset="https://SERUMANINH0.github.io/SERUMANINH0/snake.svg">
+    <!-- Fallback -->
+    <img alt="GitHub contribution grid snake animation" src="https://SERUMANINH0.github.io/SERUMANINH0/snake.svg">
+  </picture>
+</p>
 
 </div>
 
