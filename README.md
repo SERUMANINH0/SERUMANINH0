@@ -235,10 +235,6 @@ public class VeneryGutiery {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SERUMANINH0&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FF9F&line=00FF9F&point=FFFFFF&area_color=00FF9F&title_color=FFFFFF&area=true" alt="contribution graph">
-</div>
-
-<div align="center">
 <br>
   <img src="https://github-profile-trophy.vercel.app/?username=SERUMANINH0&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </div>
@@ -382,35 +378,6 @@ public class VeneryGutiery {
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[🚀 Q1 2025] --> B[Microsserviços]
-    A --> C[Docker & K8s]
-    B --> D[🔥 Q2 2025]
-    C --> D
-    D --> E[Cloud AWS/Azure]
-    D --> F[CI/CD Pipeline]
-    E --> G[☁️ Q3 2025]
-    F --> G
-    G --> H[Serverless]
-    G --> I[App na Play Store]
-    H --> J[🎓 Q4 2025]
-    I --> J
-    J --> K[Certificações]
-    J --> L[Open Source Contrib]
-    
-    style A fill:#00FF9F,stroke:#fff,stroke-width:2px,color:#000
-    style D fill:#00FF9F,stroke:#fff,stroke-width:2px,color:#000
-    style G fill:#00FF9F,stroke:#fff,stroke-width:2px,color:#000
-    style J fill:#00FF9F,stroke:#fff,stroke-width:2px,color:#000
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
 | 🎯 **OBJETIVO** | 📊 **PROGRESSO** | 🗓️ **PRAZO** | 🏆 **STATUS** |
 |:----------------|:---------------:|:-------------:|:-------------:|
 | ☁️ Dominar Spring Cloud | ![30%](https://progress-bar.dev/30/?scale=100&title=&width=120&color=00FF9F) | Q2 2025 | 🟡 Em Progresso |
@@ -508,31 +475,25 @@ const opportunities = {
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=SERUMANINH0&color=00FF9F&style=for-the-badge&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/SERUMANINH0?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117)
-![](https://img.shields.io/github/stars/SERUMANINH0?label=Stars&style=for-the-badge&color=FF6B00&labelColor=0D1117)
-
-<br>
-
-[![GitHub Activity](https://img.shields.io/github/last-commit/SERUMANINH0/SERUMANINH0?label=LAST%20ACTIVITY&style=for-the-badge&color=00FF9F&labelColor=0D1117)](https://github.com/SERUMANINH0)
+![Profile Views](https://komarev.com/ghpvc/?username=SERUMANINH0&color=00FF9F&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/SERUMANINH0?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/SERUMANINH0?label=Total%20Stars&style=for-the-badge&color=FF6B00&labelColor=0D1117)
 
 </div>
 
 ---
 
-<div align="center">
+## 🐍 **COBRA DE CONTRIBUIÇÃO - NEON EDITION**
 
-## 🐍 Cobra de Contribuição - Neon Edition
+<div align="center">
 <p align="center">
   <picture>
-    <!-- Tema escuro -->
     <source media="(prefers-color-scheme: dark)" srcset="https://serumaninh0.github.io/SERUMANINH0/snake.svg">
-    <!-- Tema claro -->
     <source media="(prefers-color-scheme: light)" srcset="https://serumaninh0.github.io/SERUMANINH0/snake.svg">
-    <!-- Fallback -->
     <img alt="Cobra de contribuições GitHub" src="https://serumaninh0.github.io/SERUMANINH0/snake.svg" style="max-width:100%; border-radius:12px; filter: drop-shadow(0 0 8px #00FF9F);">
   </picture>
 </p>
+</div>
 
 ---
 
@@ -578,9 +539,5 @@ public class Developer {
 ### ⭐ **Obrigado pela visita! Vamos construir o futuro juntos!** ⭐
 
 **"A jornada de mil linhas de código começa com um único commit."**
-
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SERUMANINH0&repo=SERUMANINH0&theme=radical&hide_border=true)](https://github.com/SERUMANINH0/SERUMANINH0)
 
 </div>
