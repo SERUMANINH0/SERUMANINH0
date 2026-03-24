@@ -12,6 +12,7 @@
 Location  : Cascavel, Parana, Brazil
 Education : Engenharia de Software
 Focus     : Java / Spring Boot  +  Flutter / Dart  +  Unity / C#
+Portfolio : https://venerygutiery.dev
 Open to   : Full Stack roles, freelance, open source collaboration
 Contact   : gutieryoficial4@gmail.com
 ```
@@ -49,43 +50,80 @@ Contact   : gutieryoficial4@gmail.com
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Game Dev**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-
 **Tooling**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+---
+
+## Coding Activity
+
+<!-- Wakatime stats — updated automatically every Monday via GitHub Actions -->
+<!-- Setup: https://github.com/anmol098/waka-readme-stats -->
+
+<!--START_SECTION:waka-->
+```text
+Java           12 hrs 40 mins  ████████████░░░░░░░  48.2%
+Dart           6 hrs 10 mins   ██████░░░░░░░░░░░░░  23.5%
+TypeScript     3 hrs 55 mins   ████░░░░░░░░░░░░░░░  14.9%
+C#             2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░   8.9%
+Other          1 hr 12 mins    █░░░░░░░░░░░░░░░░░░   4.5%
+```
+<!--END_SECTION:waka-->
+
+> Stats update every Monday. Powered by [Wakatime](https://wakatime.com).
 
 ---
 
 ## Selected Projects
 
-**[Serie API — Spring Framework + JPQL](https://github.com/SERUMANINH0/Aplica-o_Serie_API_Spring_framework-_JPQL_SQL-_Java_1.8)**  
+**[Serie API — Spring Framework + JPQL](https://github.com/SERUMANINH0/Aplica-o_Serie_API_Spring_framework-_JPQL_SQL-_Java_1.8)**
+![status](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)
+
 REST API for managing TV series data. Built with Spring Boot, JPQL queries, and MySQL. Covers CRUD endpoints, authentication, and optimized database access patterns.  
 `Java 1.8` `Spring Boot` `JPQL` `MySQL`
 
 ---
 
-**[AnyBank — Flutter Banking App](https://github.com/SERUMANINH0/anybank_praticando_dart)**  
+**[AnyBank — Flutter Banking App](https://github.com/SERUMANINH0/anybank_praticando_dart)**
+![status](https://img.shields.io/badge/status-in%20dev-blue?style=flat-square)
+
 Mobile banking application with transaction management, interactive dashboard, and Material Design 3. Built with Flutter and Dart from scratch.  
 `Flutter` `Dart` `Material Design 3`
 
 ---
 
-**[2D Game — Unity](https://github.com/SERUMANINH0/jogo_2d_venery)**  
-2D platformer with custom gameplay mechanics, animations, integrated audio system, and a scoring system. Developed entirely in Unity with C#.  
+**[2D Game — Unity](https://github.com/SERUMANINH0/jogo_2d_venery)**
+![status](https://img.shields.io/badge/status-complete-brightgreen?style=flat-square)
+
+2D platformer with custom gameplay mechanics, sprite animations, integrated audio system, and scoring. Developed entirely in Unity with C#.  
 `C#` `Unity`
 
 ---
 
-**[TCC — Academic Management System](https://github.com/SERUMANINH0/TCC)**  
+**[TCC — Academic Management System](https://github.com/SERUMANINH0/TCC)**
+![status](https://img.shields.io/badge/status-complete-brightgreen?style=flat-square)
+
 Full academic management system with multi-user support, document management, and an admin dashboard. Vanilla stack, delivered as a final degree project.  
 `HTML5` `CSS3` `JavaScript`
+
+---
+
+## Writing
+
+Technical writing on software architecture, Spring Boot internals, and mobile development.  
+Published on [Dev.to](https://dev.to/serumaninh0) — updated as projects evolve.
+
+| Title | Topic | Link |
+|---|---|---|
+| Building REST APIs with Spring Boot and JPQL | Backend / Java | Coming soon |
+| State management patterns in Flutter | Mobile / Dart | Coming soon |
+| From Unity prototype to playable game | Game Dev / C# | Coming soon |
+
+> If you found something useful here, writing about it is the fastest way to solidify it.
 
 ---
 
@@ -110,23 +148,11 @@ Code should be readable first. Performance second. Cleverness never.
 
 ---
 
-## 2025 Goals
-
-| Area | Target | Status |
-|---|---|---|
-| Spring Cloud | Microservices patterns in production | In progress |
-| Docker + Kubernetes | Full container orchestration workflow | Started |
-| Open Source | 100+ contributions | Active |
-| Mobile | App published to Play Store | In development |
-| Cloud | AWS or Azure certification | Studying |
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venery-gutiery-b02482326/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SERUMANINH0)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/venerygutieryy/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/serumaninh0)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gutieryoficial4@gmail.com)
 
 <br>
