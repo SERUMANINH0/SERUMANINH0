@@ -12,7 +12,7 @@
 Location  : Cascavel, Parana, Brazil
 Education : Engenharia de Software
 Focus     : Java / Spring Boot  +  Flutter / Dart  +  Unity / C#
-Portfolio : https://venerygutiery.dev
+Portfolio : https://portfolio-venery-g9ma4tcjz-veneryportorufino-gmailcoms-projects.vercel.app
 Open to   : Full Stack roles, freelance, open source collaboration
 Contact   : gutieryoficial4@gmail.com
 ```
@@ -115,7 +115,7 @@ Full academic management system with multi-user support, document management, an
 ## Writing
 
 Technical writing on software architecture, Spring Boot internals, and mobile development.  
-Published on [Dev.to](https://dev.to/serumaninh0) — updated as projects evolve.
+Published on [Dev.to](https://dev.to/venery_gutiery_0e22bbb75b) — updated as projects evolve.
 
 | Title | Topic | Link |
 |---|---|---|
@@ -150,9 +150,12 @@ Code should be readable first. Performance second. Cleverness never.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venery-gutiery-b02482326/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venery-gutiery-7403b426a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SERUMANINH0)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/serumaninh0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/venery_gutiery/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/serumaninh0000)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@venerygutiery8436)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/venery_gutiery_0e22bbb75b)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gutieryoficial4@gmail.com)
 
 <br>
