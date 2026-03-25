@@ -12,7 +12,7 @@
 Location  : Cascavel, Parana, Brazil
 Education : Engenharia de Software
 Focus     : Java / Spring Boot  +  Flutter / Dart  +  Unity / C#
-Portfolio : https://portfolio-venery-g9ma4tcjz-veneryportorufino-gmailcoms-projects.vercel.app
+Portfolio : https://portfolio-venery.vercel.app
 Open to   : Full Stack roles, freelance, open source collaboration
 Contact   : gutieryoficial4@gmail.com
 ```
